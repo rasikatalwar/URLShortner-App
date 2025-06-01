@@ -1,4 +1,4 @@
-# URLShortner-App
+![Screenshot 2024-07-10 212721](https://github.com/user-attachments/assets/e83b9909-afef-4cd7-b4d5-5b162b2ae779)# URLShortner-App
 
 A simple and efficient URL shortener built using the **MERN Stack** (MongoDB, Express, React, Node.js). The application allows users to shorten long URLs and get quick redirection with a clean and trackable short link.
 
@@ -19,6 +19,10 @@ Long URLs are often:
 - Making links look clean and professional
 
 ---
+**UI**:
+![Screenshot 2024-07-10 212721](https://github.com/user-attachments/assets/77a38fc1-06be-4e7f-bfc2-f1af4b8af188)
+<img width="959" alt="Screenshot 2024-07-07 155615" src="https://github.com/user-attachments/assets/450d4df9-4a9b-4193-8a94-b03ae9ebf8ed" />
+<img width="921" alt="Screenshot 2024-07-07 160308" src="https://github.com/user-attachments/assets/3a6ec589-1bb5-44ac-9ddc-53467b617bf3" />
 
 ## 🔧 Tech Stack
 
