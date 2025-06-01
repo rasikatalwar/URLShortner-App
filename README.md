@@ -1,4 +1,4 @@
-![Screenshot 2024-07-10 212721](https://github.com/user-attachments/assets/e83b9909-afef-4cd7-b4d5-5b162b2ae779)# URLShortner-App
+# URLShortner-App
 
 A simple and efficient URL shortener built using the **MERN Stack** (MongoDB, Express, React, Node.js). The application allows users to shorten long URLs and get quick redirection with a clean and trackable short link.
 
